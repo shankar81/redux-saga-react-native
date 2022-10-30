@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <filter id="Path_578" x="-3" y="0" width="42.146" height="42.146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-facebook">
+      <rect width="37" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="facebook" clip-path="url(#clip-facebook)">
+    <g id="Group_2195" data-name="Group 2195" transform="translate(-107.342 -182.839)">
+      <g transform="matrix(1, 0, 0, 1, 107.34, 182.84)" filter="url(#Path_578)">
+        <path id="Path_578-2" data-name="Path 578" d="M137.739,201.339a12.073,12.073,0,1,0-12.073,12.074A12.073,12.073,0,0,0,137.739,201.339Z" transform="translate(-107.59 -183.27)" fill="#395196"/>
+      </g>
+      <path id="Path_579" data-name="Path 579" d="M169.336,222.24v-.983a.521.521,0,0,1,.543-.591h1.379v-2.1l-1.9-.008a2.4,2.4,0,0,0-2.587,2.576v1.11h-1.219V224.7h1.229v6.146h2.458V224.7h1.824l.224-2.459Z" transform="translate(-43.212 -23.714)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
